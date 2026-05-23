@@ -1,0 +1,6 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "🤖 Running AI Code Review on staged changes..."
+# Run in strict mode to block pushes if critical error-level quality issues exist
+npm run dev -- review --strict
