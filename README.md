@@ -13,6 +13,12 @@ An intelligent, TypeScript-powered command-line interface (CLI) and Git hook ass
 
 ---
 
+## Screenshots & Workflow
+
+![Workflow Diagram](images/workflow-diagram.png)
+
+---
+
 ## Getting Started
 
 ### 1. Prerequisites
